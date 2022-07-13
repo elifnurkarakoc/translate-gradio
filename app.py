@@ -42,7 +42,7 @@ iface = gr.Interface(
                 'en',
                 'tr',
             ],
-            default='vi',
+            default='tr',
             label='From language'),
 
         gr.inputs.Radio(
